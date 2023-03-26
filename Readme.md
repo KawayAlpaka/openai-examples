@@ -3,8 +3,17 @@
 
 # hello-world 
 感性认识
-# 认证
-keys
+# 认证 - 怎么得到 key
+操作很简单
+1. 打开openai网站 https://platform.openai.com/
+2. 注册账号
+3. 领取 key
+
+需要准备
+1. 需要外部梯子
+2. 需要外部手机，接受短信
+3. 如果要成为付费回源，需要支付...
+
 
 # 主要参数意义 
 - model
